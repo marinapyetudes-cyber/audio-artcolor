@@ -2,7 +2,7 @@
 
 Bienvenue sur le dépôt officiel de l'audio d’Art Color 🎨✨
 
-Ici vous trouverez le fichier audio utilisé pour notre manifeste. L’objectif est de partager notre message de manière vivante et engageante, à travers un format audio que vous pouvez intégrer à vos projets personnels ou consulter directement.
+Ici vous trouverez le fichier audio utilisé pour notre manifeste. L’objectif est de partager notre message de manière vivante et engageante, à travers un format audio.
 
 ---
 
